@@ -8,4 +8,10 @@ Hello! And welcome to the interface of the sewer of the pipe system connecting c
 different channels for different packages linking them all together. This was inspired by a tweet that got the most attention i've ever got so lets see where this project goes.
 
 
-I'll be using matterbridge to start linking systems together and perhaps azure to set up more projects 
+I'll be using matterbridge to start linking systems together and perhaps azure to set up more projects
+
+## Architecture
+
+- As this is still a Proof of concept (POC) i'll be using the software known as "matterbridge". A way of linking chat systems together that is open source. The first pipe will be between slack and discord. 
+
+
