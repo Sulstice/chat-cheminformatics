@@ -14,4 +14,8 @@ I'll be using matterbridge to start linking systems together and perhaps azure t
 
 - As this is still a Proof of concept (POC) i'll be using the software known as "matterbridge". A way of linking chat systems together that is open source. The first pipe will be between slack and discord. 
 
-
+| Channel       | Slack | Discord | Gitter | Discourse |
+|---------------|-------|---------|--------|-----------|
+| General       | TBD   | TBD     | TBD    | TBD       |
+| Introductions | TBD   | TBD     | TBD    | TBD       |
+|               |       |         |        |           |
