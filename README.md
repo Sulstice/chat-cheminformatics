@@ -1,4 +1,7 @@
 # chat-cheminformatics
+
+[![Discord](https://img.shields.io/discord/733543723643830302?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/BBG6YA)
+
 A pipe system between cheminformatic chat channels
 
 Hello! And welcome to the interface of the sewer of the pipe system connecting cheminformatic channels Found below in this README you will find badges associated with
