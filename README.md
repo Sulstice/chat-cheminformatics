@@ -1,6 +1,6 @@
 # chat-cheminformatics
 
-[![Discord](https://img.shields.io/discord/733543723643830302?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/BBG6YA)
+[![Discord](https://img.shields.io/discord/733543723643830302?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/BBG6YA) [![Join the chat at https://gitter.im/Cheminformatics/general](https://badges.gitter.im/Cheminformatics/general.svg)](https://gitter.im/Cheminformatics/general?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A pipe system between cheminformatic chat channels
 
